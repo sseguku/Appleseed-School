@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Official Website of Appleseed Kindergarten and Day Care.
+Motto: "For the Future We Prepare"
 
-Things you may want to cover:
+Located : Sseguku Zone 4, Entebbe Road, Wakiso Uganda.
 
-* Ruby version
+Contact Info: +256702 430430
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
